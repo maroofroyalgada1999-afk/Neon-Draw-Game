@@ -1,0 +1,6 @@
+{
+  "name": "NEON DRAW-99",
+  "description": "Production-grade NEON DRAW-99 server-authoritative number game platform with virtual coins, cryptographic RNG, wallet ledger, and real-time round lifecycle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
